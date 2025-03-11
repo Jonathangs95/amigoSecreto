@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um projeto de um prompt de amigo secreto, onde os nomes de amigos e desta lista um nome é sorteado.
+Este é um projeto de um prompt de amigo secreto, onde são incluidos os nomes de amigos e desta lista um nome é sorteado.
 
 ## Tecnologias Utilizadas
 
